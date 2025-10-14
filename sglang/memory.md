@@ -1,3 +1,5 @@
+<img width="1122" height="771" alt="image" src="https://github.com/user-attachments/assets/29246fd5-6fc6-4e3d-a7d7-8f0ead8f1a0e" />
+
 # SGLang 内存池系统完整笔记
 
 > **作者**: AI助手  
